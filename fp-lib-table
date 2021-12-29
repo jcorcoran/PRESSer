@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name small_gear_footprints)(type KiCad)(uri ${KIPRJMOD}/small_gear_footprints)(options "")(descr ""))
+  (lib (name "small_gear_footprints")(type "KiCad")(uri "${KIPRJMOD}/small_gear_footprints")(options "")(descr ""))
+  (lib (name "kikit")(type "KiCad")(uri "${KIPRJMOD}/kikit.pretty")(options "")(descr ""))
 )
